@@ -1,0 +1,47 @@
+<div class="db-hero-banner-main-container">
+<div class="db-herobanner-buttons-cont">
+<!--a href="#" class="db-hero-banner-button"><span>Support</span></a-->
+<a href="https://community.databricks.com/" target="_blank" class="db-hero-banner-button" rel="noreferrer noopener"><span>Community</span></a>
+</div>
+        <div class="db-hero-banner-container">
+
+            <div class="db-content-container">
+
+                <h1 class="db-hero-banner-header">Databricks Academy</h1>
+                <h5 class="db-hero-banner-text">Build a strong data and AI foundation with Databricks Academy</h5>
+                <a href="https://www.databricks.com/learn/training/home" target="_blank" class="db-hero-banner-button" rel="noreferrer noopener"><span>Browse Training &amp; Certification Catalog</span></a>
+            </div>
+        </div>
+        <div class="db-blended-btn-group">
+            <a href="/learn/mycourses" class="db-button-tile">
+                <span class="db-blended-button-wrapper">
+                    <span class="db-blended-icon"><img src="https://d36spl5w3z9i0o.cloudfront.net/files/d/a/databrickssandbox_docebosaas_com/userfiles/444235/mylearning.png" alt="mylearning.png" /></span>
+                    <span class="db-blended-btn-text">My Learning</span>
+                </span>
+            </a>
+            <a href="https://credentials.databricks.com" target="_blank" class="db-button-tile" rel="noreferrer noopener">
+                <span class="db-blended-button-wrapper">
+                    <span class="db-blended-icon"><img src="https://d36spl5w3z9i0o.cloudfront.net/files/d/a/databrickssandbox_docebosaas_com/userfiles/444235/accreditations.png" alt="accreditations.png" /></span>
+                    <span class="db-blended-btn-text">Credentials</span>
+                </span>
+            </a>
+            <a href="/learn/catalog" class="db-button-tile">
+                <span class="db-blended-button-wrapper">
+                    <span class="db-blended-icon"><img src="https://d36spl5w3z9i0o.cloudfront.net/files/d/a/databrickssandbox_docebosaas_com/userfiles/444235/coursecatalog.png" alt="coursecatalog.png" /></span>
+                    <span class="db-blended-btn-text">Course Catalog</span>
+                </span>
+            </a>
+            <a href="/learn/subscriptions/index" class="db-button-tile">
+                <span class="db-blended-button-wrapper">
+                    <span class="db-blended-icon"><img src="https://d36spl5w3z9i0o.cloudfront.net/files/d/a/databrickssandbox_docebosaas_com/userfiles/444235/subscriptions.png" alt="subscriptions.png" /></span>
+                    <span class="db-blended-btn-text">Subscriptions</span>
+                </span>
+            </a>
+            <a href="https://help.databricks.com/s/contact-us?ReqType=training" target="_blank" class="db-button-tile" rel="noreferrer noopener">
+                <span class="db-blended-button-wrapper">
+                    <span class="db-blended-icon"><img src="https://d36spl5w3z9i0o.cloudfront.net/files/d/a/databrickssandbox_docebosaas_com/userfiles/444235/needhelp.png" alt="needhelp.png" /></span>
+                    <span class="db-blended-btn-text">Need Help</span>
+                </span>
+            </a>
+        </div>
+    </div>
