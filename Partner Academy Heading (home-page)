@@ -1,0 +1,41 @@
+<div class="db-hero-banner-main-container partner-academy-hero-banner-main-container">
+    <div class="db-hero-banner-container partner-academy-banner-container">
+        <div class="db-content-container partner-academy-content-container">
+            <div class="partner-academy-content-wrapper">
+                <h1 class="db-hero-banner-header partner-hero-banner-header">Partner Academy</h1>
+                <h5 class="db-hero-banner-text partner-hero-banner-text">Build a strong data and AI foundation with Databricks Academy</h5>
+                <div class="partner-academy-hero-banner-button-group">
+                    <a href="https://www.databricks.com/learn/training/home" target="_blank" class="db-hero-banner-button partner-academy-hero-banner-button" rel="noreferrer noopener"><span>Browse Training &amp; Certification Catalog</span></a>
+                    <a href="https://community.databricks.com/" target="_blank" class="db-hero-banner-button db-button-orange partner-academy-hero-banner-button" rel="noreferrer noopener"><span>Community</span></a>
+                    <a href="https://help.databricks.com/s/contact-us?ReqType=training" target="_blank" class="db-hero-banner-button db-button-blue partner-academy-hero-banner-button" rel="noreferrer noopener"><span>Need Help</span></a>
+                </div>
+            </div>
+            <div class="db-blended-btn-group partner-academy-btn-group">
+                <a href="/learn/catalog/view/6" class="db-button-tile partner-academy-button-tile">
+                    <span class="db-blended-button-wrapper partner-academy-button-tile-wrapper">
+                        <span class="db-blended-icon partner-button-tile-icon"><img src="https://cdn5.dcbstatic.com/files/d/a/databricks_docebosaas_com/userfiles/747676/primary_icon_orange_community.png" alt="mylearning.png" /></span>
+                        <span class="db-blended-btn-text partner-button-tile-text">Sales Enablement</span>
+                    </span>
+                </a>
+                <a href="/learn/catalog/view/100" target="_blank" class="db-button-tile partner-academy-button-tile" rel="noreferrer noopener">
+                    <span class="db-blended-button-wrapper partner-academy-button-tile-wrapper">
+                        <span class="db-blended-icon partner-button-tile-icon"><img src="https://cdn5.dcbstatic.com/files/d/a/databricks_docebosaas_com/userfiles/747676/primary_icon_orange_catalog_store.png" alt="accreditations.png" /></span>
+                        <span class="db-blended-btn-text partner-button-tile-text">Delivery Technical Enablement</span>
+                    </span>
+                </a>
+                <a href="#" class="db-button-tile partner-academy-button-tile tile-disabled">
+                    <span class="db-blended-button-wrapper partner-academy-button-tile-wrapper">
+                        <span class="db-blended-icon partner-button-tile-icon"><img src="https://cdn5.dcbstatic.com/files/d/a/databricks_docebosaas_com/userfiles/747676/money_sign_lightbulb.png" alt="subscriptions.png" /></span>
+                        <span class="db-blended-btn-text partner-button-tile-text">Sales Plays By Use Case - Coming Soon</span>
+                    </span>
+                </a>
+                <a href="/learn/catalog/view/31" class="db-button-tile partner-academy-button-tile">
+                    <span class="db-blended-button-wrapper partner-academy-button-tile-wrapper">
+                        <span class="db-blended-icon partner-button-tile-icon"><img src="https://cdn5.dcbstatic.com/files/d/a/databricks_docebosaas_com/userfiles/747676/primary_icon_orange_zoom_background.png" alt="coursecatalog.png" /></span>
+                        <span class="db-blended-btn-text partner-button-tile-text">Instructor-led Training</span>
+                    </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
