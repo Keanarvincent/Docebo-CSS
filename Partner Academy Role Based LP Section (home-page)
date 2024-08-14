@@ -1,0 +1,166 @@
+<div class="accordion">
+    <div class="tab">
+        <input class="tab-input" type="checkbox" name="accordion-1" id="pa1" checked="checked" value="" />
+        <label class="tab__label">Role Based Learning Paths</label>
+        <div class="tab__content">
+          <div class="tab__content-inner">
+              <div class="db-courses-grid">
+                  <a href="https://partner-academy.databricks.com/learn/course/1389/data-analysis-with-databricks-sql?generated_by=308609&amp;hash=d4cbd3fdb7fa9b0ce082e9ef46455868e8cf4ac0" class="db-course-tile">
+                      <span class="db-course-tile-image-wrapper">
+                          <img src="https://cdn5.dcbstatic.com/files/d/a/databricks_docebosaas_com/userfiles/747676/partner_academy_da_icons_200x200_2x.png" class="db-course-tile-image" alt="partner_academy_da_icons_200x200_2x.png" />
+                      </span>
+                      <span class="db-course-tile-content">
+                          <span class="db-course-tile-title">Data Analysis</span>
+                      </span>
+                  </a>
+                  <a href="https://partner-academy.databricks.com/learn/course/808/data-engineering-with-databricks?generated_by=308609&amp;hash=8428755b49d46acbef6e8810131744ead4b6b753" class="db-course-tile">
+                      <span class="db-course-tile-image-wrapper">
+                          <img src="https://cdn5.dcbstatic.com/files/d/a/databricks_docebosaas_com/userfiles/747676/partner_academy_de_icons_200x200_2x.png" class="db-course-tile-image" alt="partner_academy_de_icons_200x200_2x.png" />
+                      </span>
+                      <span class="db-course-tile-content">
+                          <span class="db-course-tile-title">Data Engineering</span>
+                      </span>
+                  </a>
+                  <a href="https://partner-academy.databricks.com/learn/course/2223/generative-ai-engineering-with-databricks?generated_by=308609&amp;hash=2dcdbef5fd44c3938cbe13d78877f5ee44f36faf" class="db-course-tile">
+                      <span class="db-course-tile-image-wrapper">
+                          <img src="https://cdn5.dcbstatic.com/files/d/a/databricks_docebosaas_com/userfiles/747676/partner_academy_genai_icons_200x200_2x.png" class="db-course-tile-image" alt="partner_academy_genai_icons_200x200_2x.png" />
+                      </span>
+                      <span class="db-course-tile-content">
+                          <span class="db-course-tile-title">GenAI Engineering</span>
+                      </span>
+                  </a>
+                  <a href="https://partner-academy.databricks.com/learn/course/2420/machine-learning-with-databricks?generated_by=308609&amp;hash=71e65069bf7486584c522227d70022e0307ff2c5" class="db-course-tile">
+                      <span class="db-course-tile-image-wrapper">
+                          <img src="https://cdn5.dcbstatic.com/files/d/a/databricks_docebosaas_com/userfiles/747676/partner_academy_ml_icons_200x200_2x.png" class="db-course-tile-image" alt="partner_academy_ml_icons_200x200_2x.png" />
+                      </span>
+                      <span class="db-course-tile-content">
+                          <span class="db-course-tile-title">Machine Learning</span>
+                      </span>
+                  </a>
+                  <a href="https://partner-academy.databricks.com/learn/catalog/view/101" class="db-course-tile">
+                    <span class="db-course-tile-image-wrapper">
+                        <img src="https://cdn5.dcbstatic.com/files/d/a/databricks_docebosaas_com/userfiles/747676/strategic_points_of_view_updated.png" class="db-course-tile-image" alt="strategic_points_of_view_updated.png" />
+                    </span>
+                    <span class="db-course-tile-content">
+                        <span class="db-course-tile-title">Leaders</span>
+                    </span>
+                </a>
+                  <a href="https://partner-academy.databricks.com/learn/catalog/view/103" class="db-course-tile">
+                      <span class="db-course-tile-image-wrapper">
+                          <img src="https://cdn5.dcbstatic.com/files/d/a/databricks_docebosaas_com/userfiles/747676/foundations_gtm_expertise_updated.png" class="db-course-tile-image" alt="foundations_gtm_expertise_updated.png" />
+                      </span>
+                      <span class="db-course-tile-content">
+                          <span class="db-course-tile-title">Sales</span>
+                      </span>
+                  </a>
+                  <a href="https://partner-academy.databricks.com/learn/catalog/view/102" class="db-course-tile">
+                      <span class="db-course-tile-image-wrapper">
+                          <img src="https://cdn5.dcbstatic.com/files/d/a/databricks_docebosaas_com/userfiles/747676/tech_presales_expertise_updated.png" class="db-course-tile-image" alt="tech_presales_expertise_updated.png" />
+                      </span>
+                      <span class="db-course-tile-content">
+                          <span class="db-course-tile-title">Tech Pre-Sales</span>
+                      </span>
+                  </a>
+              </div>
+          </div>
+        </div>
+      </div>
+    <div class="tab">
+        <input class="tab-input" type="checkbox" name="accordion-2" id="pa2" checked="checked" value="" />
+        <label class="tab__label">Featured Courses &amp; Trainings</label>
+        <div class="tab__content">
+            <div class="tab__content-inner">
+                <div class="db-courses-grid">
+                    <div class="db-courses-list">
+                        <a href="/learn/course/2195/delivery-specialization-uc-upgrade?generated_by=308609&amp;hash=5d687dd57d575f16681bb028d20f8528e6f3a964" class="db-course-tile">
+                            <span class="db-course-tile-image-wrapper">
+                                <img src="https://cdn5.dcbstatic.com/files/d/a/databricks_docebosaas_com/userfiles/747676/blue_frame_placeholder.png" class="db-course-tile-image" alt="blue_frame_placeholder.png" />
+                            </span>
+                            <span class="db-course-tile-content">
+                                <span class="db-course-tile-title">Delivery Specialization: UC Upgrade</span>
+                            </span>
+                        </a>
+                        <a href="/learn/course/2223/generative-ai-engineering-with-databricks?generated_by=308609&amp;hash=2dcdbef5fd44c3938cbe13d78877f5ee44f36faf" class="db-course-tile">
+                            <span class="db-course-tile-image-wrapper">
+                                <img src="https://cdn5.dcbstatic.com/files/d/a/databricks_docebosaas_com/userfiles/747676/blue_frame_placeholder.png" class="db-course-tile-image" alt="blue_frame_placeholder.png" />
+                            </span>
+                            <span class="db-course-tile-content">
+                                <span class="db-course-tile-title">GenAI Engineering with Databricks</span>
+                            </span>
+                        </a>
+                        <a href="/learn/course/811/advanced-data-engineering-with-databricks?generated_by=308609&amp;hash=10587cd2d955846cab68f3d30ac09c56b8b10cad" class="db-course-tile">
+                            <span class="db-course-tile-image-wrapper">
+                                <img src="https://cdn5.dcbstatic.com/files/d/a/databricks_docebosaas_com/userfiles/747676/blue_frame_placeholder.png" class="db-course-tile-image" alt="blue_frame_placeholder.png" />
+                            </span>
+                            <span class="db-course-tile-content">
+                                <span class="db-course-tile-title">Advanced Data Engineering with Databricks</span>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="db-courses-list">
+                        <a href="/learn/course/2153/data-ai-governance-with-unity-catalog-presales-partner-badge?generated_by=13441&amp;hash=40097d8207f498d4046abe126f3da46d622c1334" class="db-course-tile">
+                            <span class="db-course-tile-image-wrapper">
+                                <img src="https://cdn5.dcbstatic.com/files/d/a/databricks_docebosaas_com/userfiles/747676/data_ai_governance_updated.png" class="db-course-tile-image" alt="data_ai_governance_updated.png" />
+                            </span>
+                            <span class="db-course-tile-content">
+                                <span class="db-course-tile-title">Data &amp; AI Governance with Unity Catalog PreSales Partner Badge</span>
+                            </span>
+                        </a>
+                        <a href="/learn/course/2494/gen-ai-llm-on-databricks-presales-partner-badge?generated_by=13441&amp;hash=adfb60383c426eed96b3df806fbfd4a625ae7a6a" class="db-course-tile">
+                            <span class="db-course-tile-image-wrapper">
+                                <img src="https://cdn5.dcbstatic.com/files/d/a/databricks_docebosaas_com/userfiles/747676/gen_ai_llm_on_databricks_updated.png" class="db-course-tile-image" alt="gen_ai_llm_on_databricks_updated.png" />
+                            </span>
+                            <span class="db-course-tile-content">
+                                <span class="db-course-tile-title">Gen AI &amp; LLM on Databricks PreSales Partner Badge</span>
+                            </span>
+                        </a>
+                        <a href="/learn/course/2470/brick-by-brick-podcast-season-iii?generated_by=13441&amp;hash=e47438b9ccbece4a916926de281de7552cbe7df1" class="db-course-tile">
+                            <span class="db-course-tile-image-wrapper">
+                                <img src="https://cdn5.dcbstatic.com/files/d/a/databricks_docebosaas_com/userfiles/747676/brick_by_brick_season_three_square.png" class="db-course-tile-image" alt="brick_by_brick_season_three_square.png" />
+                            </span>
+                            <span class="db-course-tile-content">
+                                <span class="db-course-tile-title">Brick by Brick<br /> Season III</span>
+                            </span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="tab">
+        <input class="tab-input" type="checkbox" name="accordion-3" id="pa3" value="" />
+        <label class="tab__label">Delivery Specialization</label>
+        <div class="tab__content">
+            <div class="tab__content-inner">
+                <div class="db-courses-grid">
+                    <a href="https://partner-academy.databricks.com/learn/course/2195/delivery-specialization-uc-upgrade?generated_by=308609&amp;hash=5d687dd57d575f16681bb028d20f8528e6f3a964" class="db-course-tile">
+                        <span class="db-course-tile-image-wrapper">
+                            <img src="https://cdn5.dcbstatic.com/files/d/a/databricks_docebosaas_com/userfiles/747676/green_frame_placeholder.png" class="db-course-tile-image" alt="green_frame_placeholder.png" />
+                        </span>
+                        <span class="db-course-tile-content">
+                            <span class="db-course-tile-title">Delivery Specialization: UC Upgrade</span>
+                        </span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="tab">
+        <input class="tab-input" type="checkbox" name="accordion-4" id="pa4" value="" />
+        <label class="tab__label">Databricks Academy Labs (Partner)</label>
+        <div class="tab__content">
+            <div class="tab__content-inner">
+                <div class="db-courses-grid">
+                    <a href="https://partner-academy.databricks.com/learn/catalog/view/89" class="db-course-tile">
+                        <span class="db-course-tile-image-wrapper">
+                            <img src="https://cdn5.dcbstatic.com/files/d/a/databricks_docebosaas_com/userfiles/747676/green_frame_placeholder.png" class="db-course-tile-image" alt="green_frame_placeholder.png" />
+                        </span>
+                        <span class="db-course-tile-content">
+                            <span class="db-course-tile-title">Partner Databricks Academy Labs</span>
+                        </span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
